@@ -19,4 +19,4 @@ https://github.com/WangShuxiong/SoptSC
 
 
 
-> **Please feel free to contact us if you have any question: shuxionw 'at' uci 'dot' edu**
+**Please feel free to contact us if you have any question: shuxionw 'at' uci 'dot' edu**

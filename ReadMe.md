@@ -6,17 +6,11 @@ https://github.com/WangShuxiong/SoptSC
 * Some figures are generated using custermized code below
 
 
-
-- Requires: 
-	> - MATLAB R2017b or later (where function tSNE is included)
-	> - or Update the Statistics and Machine Learning Toolbox such that the function tSNE (t-Distributed Stochastic Neighbor Embedding) is included.
-	> - Please refer to each M file for more detailed descriptions of the corresponding function.
-
-
 ## Tutorials
 - [Code for main Figs](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Figs.html)
 - [Code for ming Fig3](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Fig3.html)
 
-
+Alternatively
+- Go to Main_Figs.m (Main_Figs.mlx) or Main_Fig3.m (Main_Fig3.mlx) for detials.
 
 **Please feel free to contact us if you have any question: shuxionw 'at' uci 'dot' edu**

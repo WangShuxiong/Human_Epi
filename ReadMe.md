@@ -6,22 +6,17 @@ https://github.com/WangShuxiong/SoptSC
 * Some figures are generated using custermized code below
 
 
-* Key features of SoptSC
-	> 1. Estimation of the number of clusters from the single-cell data.
-	> 2. Identify cell subpopulations.
-	> 3. Identify marker genes for each cell subpopulation.
-	> 4. Infer pseudotime (temporal ordering of cells) in an unsupervised manner: i.e., initial cell is not required.
-	> 5. Infer lineage in an unsupervised manner: i.e., initial cluster is not required. 
-	> 6. Infer signaling network given a group of Ligand-Receptor pairs and their downstream target genes (to be updated).
-	----------------------
 
 - Requires: 
-	> MATLAB R2017b or later (where function tSNE is included)
-	> or Update the Statistics and Machine Learning Toolbox such that the function tSNE (t-Distributed Stochastic Neighbor Embedding) is included.
-	> Please refer to each M file for more detailed descriptions of the corresponding function.
+	> - MATLAB R2017b or later (where function tSNE is included)
+	> - or Update the Statistics and Machine Learning Toolbox such that the function tSNE (t-Distributed Stochastic Neighbor Embedding) is included.
+	> - Please refer to each M file for more detailed descriptions of the corresponding function.
+
+
 ## Tutorials
-- [Code for main figs](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Figs.html)
+- [Code for main Figs](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Figs.html)
 - [Code for ming Fig3](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Fig3.html)
 
-	-----
+
+
 > **Please feel free to contact us if you have any question: shuxionw 'at' uci 'dot' edu**

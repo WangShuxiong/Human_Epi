@@ -11,6 +11,6 @@ https://github.com/WangShuxiong/SoptSC
 - [Code for ming Fig3](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Fig3.html)
 
 Alternatively
-- Go to Main_Figs.m (Main_Figs.mlx) or Main_Fig3.m (Main_Fig3.mlx) for detials.
+- Go to Main_Figs.m (Main_Figs.mlx) or Main_Fig3.m (Main_Fig3.mlx) for more details.
 
 **Please feel free to contact us if you have any question: shuxionw 'at' uci 'dot' edu**

@@ -1,5 +1,5 @@
 ## This is the Matlab code for generateing main figs in the following paper:
-[Single cell transcriptomics of human epidermis identifies basal stem cell transition states](https://htmlpreview.github.io/?https://www.nature.com/articles/s41467-020-18075-7),
+[Single cell transcriptomics of human epidermis identifies basal stem cell transition states](https://www.nature.com/articles/s41467-020-18075-7),
 S. Wang, M. Drummond, C.Guerrero-Juarez, E.Tarapore, A.MacLean, A. Stabell, S. Wu, G. Gutierrez, B. That, C. Benavente, Q. Nie & S. X. Atwood,
 Nature Communications, 2020. 
 

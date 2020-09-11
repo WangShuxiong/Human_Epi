@@ -15,6 +15,6 @@ https://github.com/WangShuxiong/SoptSC
 - [Code for ming Figure 5](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Figure5.html)
 
 Alternatively
-- Go to Main_Figs.m (Main_Figs.mlx) or Main_Fig3.m (Main_Fig3.mlx) for more details.
+- Go to Main_Figures1_2.m (Main_Figure1_2.mlx), Main_Figure3.m (Main_Figure3.mlx), Main_Figure4.m (Main_Figure4.mlx), Main_Figure5.m (Main_Figure5.mlx) for more details.
 
 **Please feel free to contact us if you have any question: shuxionw 'at' uci 'dot' edu**

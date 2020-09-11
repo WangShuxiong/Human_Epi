@@ -21,8 +21,8 @@ ylim([0 1]);
 
 zz = No_cells;
 
-xtips1 = b(1).XEndPoints;
-ytips1 = b(1).YEndPoints;
+xtips1 = b.XData;
+ytips1 = b.YData;
 labels2 = string(lgd);
 for i = 1:length(lgd)
     labels2(i) = [num2str(round(zz(i)*100)) '%'];
@@ -55,5 +55,5 @@ fig.Units = 'Inches';
 fig.Position = [0 0 4 2.5];
 
 
-print([folder '\Percent_Cell_' figname],'-dpdf','-r300'); %'-dpdf',,'-fillpage'
-% print([folder '\Percent_Cell_' figname],'-depsc','-r300'); %'-dpdf',,'-fillpage'
+% print([folder '\Percent_Cell_' figname],'-dpdf','-r300'); %'-dpdf',,'-fillpage'
+print([folder '\Percent_Cell_' figname],'-depsc','-r300'); %'-dpdf',,'-fillpage'

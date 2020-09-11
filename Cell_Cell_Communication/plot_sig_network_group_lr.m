@@ -48,7 +48,7 @@ for i = 1:NC_LR
         figure;
         Gh = plot(bg,'Marker','o','MarkerSize',Nodesize,'NodeLabel',[],...
             'NodeColor',mycolor,'EdgeColor',myedgecolor,'LineWidth',...
-            bg.Edges.LWidths,'ArrowSize',10,'Layout','circle'); % [0.690196 0.768627 0.870588]'force' 'Layout','layered'
+            bg.Edges.LWidths,'ArrowSize',10,'Layout','layered'); % [0.690196 0.768627 0.870588]'force' 'Layout','layered'
         % 'Layout','circle', ,'XData',XY(:,1),'YData',XY(:,2)
         set(gca,'xtick',[]);
         set(gca,'ytick',[]);

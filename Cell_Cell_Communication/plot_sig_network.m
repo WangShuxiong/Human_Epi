@@ -25,7 +25,7 @@ adjacentM(adjacentM < threshold) = 0;
 
 if max(adjacentM(:)) > 0
     bg = digraph(adjacentM);
-    bg.Edges.LWidths = 10*bg.Edges.Weight/max(bg.Edges.Weight);
+    bg.Edges.LWidths = 5*bg.Edges.Weight/max(bg.Edges.Weight);
     
     % Set my edge color
     aa = bg.Edges.EndNodes;
@@ -39,7 +39,7 @@ if max(adjacentM(:)) > 0
     end
     Gh = plot(bg,'Marker','o','MarkerSize',20,'Layout','circle','NodeLabel',lgd,...
         'NodeColor',mycolor,'EdgeColor',myedgecolor,'LineWidth',...
-        bg.Edges.LWidths,'ArrowSize',10);
+        bg.Edges.LWidths,'ArrowSize',10,'Layout','layered');
     
     set(gca,'xtick',[]);
     set(gca,'ytick',[]);

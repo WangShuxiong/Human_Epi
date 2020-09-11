@@ -70,6 +70,7 @@ for ik = 1:gene_set_no
     fig.Units = 'Inches';
     fig.Position = [0 0 4 3];
     box off;
-    
-%     print([folder '\Feature_' mk{ik}],'-dpdf','-r300','-bestfit'); %'-dpdf',,'-bestfit'
+    print([folder '\Feature_' mk{ik}],'-depsc','-r300'); %'-dpdf','-fillpage'
+
+%      print([folder '\Feature_' mk{ik}],'-dpdf','-r300','-bestfit'); %'-dpdf',,'-bestfit'
 end

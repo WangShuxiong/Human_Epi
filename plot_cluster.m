@@ -2,7 +2,8 @@ function plot_cluster(latent,cluster_label,No_cluster,lgd,folder,reorder,method,
 
 
 for ik = 1:No_cluster
-    scatter(latent(find(cluster_label==reorder(ik)),1),latent(find(cluster_label==reorder(ik)),2),10,mycolor(ik,:),'filled','MarkerEdgeAlpha',0.6,'MarkerFaceAlpha',0.6);
+    scatter(latent(find(cluster_label==reorder(ik)),1),latent(find(cluster_label==reorder(ik)),2),10,mycolor(ik,:),...
+        'filled','MarkerEdgeAlpha',0.6,'MarkerFaceAlpha',0.6);
     hold on;
 end
 box off;
@@ -26,5 +27,5 @@ fig.Units = 'Inches';
 fig.Position = [0 0 5 3];
 box off;
 
-% print([folder '\' figname '_' method],'-depsc','-r300'); %'-dpdf','-fillpage'
+print([folder '\' figname '_' method],'-depsc','-r300'); %'-dpdf','-fillpage'
 % print([folder '\' figname '_' method],'-dpdf','-r300'); %'-dpdf','-fillpage'

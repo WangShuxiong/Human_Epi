@@ -9,8 +9,10 @@ https://github.com/WangShuxiong/SoptSC
 
 
 ## Tutorials
-- [Code for main Figs](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Figs.html)
-- [Code for ming Fig3](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Fig3.html)
+- [Code for main Figures 1 & 2](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Figure1_2.html)
+- [Code for ming Figure 3](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Figure3.html)
+- [Code for ming Figure 4](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Figure4.html)
+- [Code for ming Figure 5](https://htmlpreview.github.io/?https://github.com/WangShuxiong/Human_Epi/blob/master/Main_Figure5.html)
 
 Alternatively
 - Go to Main_Figs.m (Main_Figs.mlx) or Main_Fig3.m (Main_Fig3.mlx) for more details.
